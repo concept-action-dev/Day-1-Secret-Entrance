@@ -1,3 +1,7 @@
+# this script reads an input file containing lines that start with either 'L' or 'R' followed by a number.
+# It processes each line to convert 'L' prefixed numbers to negative values and 'R' prefixed numbers to positive values.
+# This is a simplified version for testing
+
 param(
     [Parameter(Mandatory = $true)]
     [string]$InputPath,
@@ -37,7 +41,7 @@ Get-Content -Path $InputPath | ForEach-Object {
         }
     }
     else {
-        Write-Warning "Malformed line $lineNumber: '$raw'"
+        Write-Warning "Malformed line ${lineNumber}: '$raw'"
     }
 }
 
@@ -46,6 +50,7 @@ $position  = 0
 $maxRight  = 0
 $maxLeft   = 0
 
+# placeholder for next part of code
 foreach ($r in $records) {
     $position += $r.Value
     if ($position -gt $maxRight) { $maxRight = $position }

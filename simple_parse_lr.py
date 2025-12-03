@@ -21,6 +21,7 @@ import os
 import re
 from typing import Any, Dict, List, Optional
 
+
 # Lines like: L10, R5, L  3, r100, etc.
 LINE_RE = re.compile(r"^\s*([LlRr])\s*(\d+)\s*$")
 
@@ -105,6 +106,7 @@ def write_json(records: List[Dict[str, Any]], output_path: str) -> None:
 
 
 # 🔁  SECOND LOOP: where you work with the signed numbers
+# placeholder for next part of code
 def process_values(records: List[Dict[str, Any]]) -> Dict[str, Any]:
     """
     Example "second loop" over the signed values.
