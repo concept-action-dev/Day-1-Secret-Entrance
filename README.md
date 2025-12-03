@@ -33,11 +33,11 @@
 
 [![my repos][6]][def]
 
-[1]: https://custom-icon-badges.demolab.com/github/license/Gab91s/Day-1-Secret-Entrance?logo=law
-[2]: https://custom-icon-badges.demolab.com/github/actions/workflow/status/Gab91s/Day-1-Secret-Entrance/ci.yml?branch=main&logo=check-circle-fill&logoColor=white
-[3]: https://custom-icon-badges.demolab.com/github/v/tag/Gab91s/Day-1-Secret-Entrance?logo=tag&logoColor=white
-[4]: https://custom-icon-badges.demolab.com/github/last-commit/Gab91s/Day-1-Secret-Entrance?logo=history&logoColor=white
-[5]: https://custom-icon-badges.demolab.com/github/languages/code-size/Gab91s/Day-1-Secret-Entrance?logo=file-code&logoColor=white
+[1]: https://custom-icon-badges.demolab.com/github/license/concept-action-dev/Day-1-Secret-Entrance?logo=law
+[2]: https://custom-icon-badges.demolab.com/github/actions/workflow/status/concept-action-dev/Day-1-Secret-Entrance/ci.yml?branch=main&logo=check-circle-fill&logoColor=white
+[3]: https://custom-icon-badges.demolab.com/github/v/tag/concept-action-dev/Day-1-Secret-Entrance?logo=tag&logoColor=white
+[4]: https://custom-icon-badges.demolab.com/github/last-commit/concept-action-dev/Day-1-Secret-Entrance?logo=history&logoColor=white
+[5]: https://custom-icon-badges.demolab.com/github/languages/code-size/concept-action-dev/Day-1-Secret-Entrance?logo=file-code&logoColor=white
 [6]: https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo
-[def]: https://github.com/Gab91s?tab=repositories "link to my GitHub repositories"
+[def]: https://github.com/concept-action-dev?tab=repositories "link to my GitHub repositories"
 [7]: https://forthebadge.com/badges/built-with-love.svg
